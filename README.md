@@ -35,6 +35,7 @@ rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq -
 
 ## Demo
 
+[![In action](https://raw.githubusercontent.com/JaminB/ChessPNGSolver/master/demo/vid.png)](https://youtu.be/6rg1gDp83kw)
 
 
 
